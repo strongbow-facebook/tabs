@@ -1,0 +1,22 @@
+.site {
+  background:url(images/bg_story.jpg) no-repeat;
+  height:748px;
+}
+.content {
+  width:384px;
+  padding:137px 0 0 74px;
+}
+h1 {
+  background:url(images/heading_our_story_384x112.png) no-repeat;
+  width:384px;
+  height:112px;
+  margin:0 auto 35px;
+  text-indent:-5000em;
+}
+p {
+  margin-bottom:25px;
+  padding:0 15px;
+  font-size:1.4em;
+  line-height:19px;
+  text-align:center;
+}

@@ -1,0 +1,10 @@
+body {
+  color:#736c56;
+  font-family:Georgia, Serif;
+  font-size:10px;
+}
+.site {
+  width:810px;
+  margin:0 auto;
+}
+.content { padding:20px; }

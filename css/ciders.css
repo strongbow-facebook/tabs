@@ -1,0 +1,71 @@
+.site {
+  background:url(images/bg_ciders.jpg) no-repeat;
+  height:963px;
+}
+.content {
+  padding-top:96px;
+}
+h1 {
+  background:url(images/heading_our_cider_353x111.png) no-repeat;
+  width:353px;
+  height:111px;
+  margin:0 auto 35px;
+  text-indent:-5000em;
+}
+.intro {
+  width:500px;
+  margin:0 auto 75px;
+  font-size:1.4em;
+  text-align:center;
+  line-height:19px;
+}
+
+ul {
+  margin-left:10px;
+  overflow:hidden;
+}
+li {
+  width:132px;
+  margin:0 10px;
+  float:left;
+}
+li h3 {
+  margin:0 auto 15px;
+  text-indent:-5000em;
+}
+li.original h3 {
+  background:url(images/heading_original_104x39.png) no-repeat;
+  width:104px;
+  height:39px;
+}
+li.sweet h3 {
+  background:url(images/heading_sweet_89x36.png) no-repeat;
+  width:89px;
+  height:36px;
+}
+li.dry h3 {
+  background:url(images/heading_dry_89x36.png) no-repeat;
+  width:89px;
+  height:36px;
+}
+li.pear h3 {
+  background:url(images/heading_pear_94x36.png) no-repeat;
+  width:94px;
+  height:36px;
+}
+li.clear h3 {
+  background:url(images/heading_clear_96x36.png) no-repeat;
+  width:96px;
+  height:36px;
+}
+li p {
+  padding:0 5px;
+  font-size:1.2em;
+  text-align:center;
+  line-height:14px;
+}
+li.original p { color:#aa2e2a; }
+li.sweet p { color:#5f893b; }
+li.dry p { color:#c66329; }
+li.pear p { color:#92a63d; }
+li.clear p { color:#6b859e; }
